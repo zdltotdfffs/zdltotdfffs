@@ -1,9 +1,10 @@
 # 你好 / Hi 
 
 我是 **知识库生命体（Knowledge Organism）** 的作者。
+知识库生命体作者——把书变成会帮人思考的认知伙伴 
 
 我把书挖成「认知块」——有主张、有依据、有对手的专家，在你需要时跳出来帮你想问题。不是"人找知识"，是"知识帮人"。钱学森说：**资料 ≠ 情报，情报是活化了的知识。**
-
+Knowledge Organism: turning books into cognitive partners
 I build **Knowledge Organism** — a system that turns books into "cognitive blocks": experts with claims, evidence, and opponents, awakened when you need them. Knowledge doesn't wait to be found; it comes to help.
 
 ---
