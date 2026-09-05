@@ -1,4 +1,4 @@
-# 你好 / Hi 👋
+# 你好 / Hi 
 
 我是 **知识库生命体（Knowledge Organism）** 的作者。
 
